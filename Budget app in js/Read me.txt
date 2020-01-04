@@ -1,0 +1,4 @@
+1.plz open the index file to run the app.
+2.if you want to check the code plz check the app.js.
+  [Note: if you don't know to how to open .js file plz download notepad++ from their
+  officia website.]
